@@ -1,0 +1,11 @@
+#set for macOS 文件 
+.DS_Store
+
+#set for node
+/node_modules/
+
+#set for package
+/dist/
+
+
+
